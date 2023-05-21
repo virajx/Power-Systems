@@ -10,6 +10,9 @@ Y<sub>bus</sub>, also known as the admittance matrix or bus admittance matrix, i
 
 In simple terms, Ybus summarizes the interconnectedness of different components in a power system, such as generators, transformers, transmission lines, and loads. It is used to analyze the flow of electricity, voltage levels, and power losses within the network. By calculating the Ybus matrix, we can determine parameters like voltage stability, fault analysis, and optimal power flow in the system.
 
+<img width="345" alt="Screenshot 2023-05-21 at 3 04 38 PM" src="https://github.com/virajx/Power-Systems/assets/38124902/2d016df4-36bc-45ef-b43b-f82393af16d2">
+
+
 ## 2. Gauss Seidel Load Flow Analysis
 
 Gauss-Seidel Load Flow Analysis is a computational method used in power system analysis to calculate the steady-state voltages and power flows in an electrical network. It is an iterative technique that helps determine the voltage magnitude and angle at each bus (node) in the system.
